@@ -2,7 +2,7 @@
 
 A clean, pastel-themed web app for keeping track of job applications. Add applications, update their status as you move through the hiring process, and search or filter everything in one place. Data is saved in your browser, so nothing is lost on refresh.
 
-https://github.com/ChelseayReblora/JobApplication_Tracker 
+[https://github.com/ChelseayReblora/JobApplication_Tracker ](https://chelseayreblora.github.io/JobApplication_Tracker/)
 
 <img width="647" height="656" alt="Screenshot 2026-11-09 at 5 40 28 PM" src="https://github.com/user-attachments/assets/c57b14ae-5ad6-49c8-9001-b7da257e8cd3" />
 
