@@ -77,8 +77,8 @@ job-tracker/
 
 ## Author
 
-**[CHELSEAY ANNE D. REBLORA]**
-- GitHub: [@ChelseayReblora]((https://github.com/ChelseayReblora))
+**CHELSEAY ANNE D. REBLORA**
+- GitHub: @ChelseayReblora ((https://github.com/ChelseayReblora))
 - LinkedIn: https://www.linkedin.com/in/chelseay-anne-reblora-50914a343/
 
 ## License
